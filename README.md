@@ -1,2 +1,2 @@
 # ElenaWang312.github.io
-This is my blog.
+This is my cv.
